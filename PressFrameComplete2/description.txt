@@ -1,0 +1,15 @@
+<h2>Features</h2>
+<ul>
+ <li>WordPress 3.5+ Compatible</li>
+ <li>HTML5 & CSS3</li>
+ <li>100% Responsive design</li>
+ <li>Cross-Browser Compatible</li>
+ <li>Minimalistic design</li>
+ <li>Archive Page Template</li>
+ <li>Contact Page Template</li>
+ <li>Left & Right Sidebar</li>
+ <li>Unlimited Colors</li> 
+ <li>Unlimited Menu Items</li>
+ <li>Custom Widgets</li>
+ <li>Custom Logo Uploader</li>
+</ul>
