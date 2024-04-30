@@ -1,6 +1,6 @@
 # wordpress
 
-![WordPress Theme](https://myoctocat.com/assets/images/base-octocat.svg)
+![WordPress Theme](https://github.com/web-browser1/wordpress/blob/main/PressFrameComplete2/pressframe-thumbnail.png)
 
 
 
