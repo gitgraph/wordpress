@@ -1,5 +1,7 @@
 # wordpress
 
+![WordPress Theme](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 
 **Kodens struktur och syfte**
