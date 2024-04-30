@@ -2,6 +2,8 @@
 
 ![WordPress Theme](https://github.com/web-browser1/wordpress/blob/main/PressFrameComplete2/pressframe-thumbnail.png)
 
+![WordPress Theme](https://github.com/web-browser1/wordpress/blob/main/PressFrameComplete2/pressframe-main_files/theme/pressframe/screenshot.png)
+
 
 
 **Kodens struktur och syfte**
